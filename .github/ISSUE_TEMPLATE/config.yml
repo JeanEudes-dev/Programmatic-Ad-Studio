@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or Discussion
+    url: https://github.com/JeanEudes-dev/Programmatic-Ad-Studio/issues
+    about: Ask a question or start a discussion about the project.
